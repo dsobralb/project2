@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 playing video games, working out, cooking
+=======
+Playing videogames, working out, cooking.
+>>>>>>> c89613c138a610cce46d7e7606386135d0a1edd2
